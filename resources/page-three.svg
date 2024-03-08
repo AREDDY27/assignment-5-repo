@@ -1,0 +1,12 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+<!-- creates the path for circle to follow-->
+  <path id="squarePath" fill="none" stroke="black" d="M 10 10 H 190 V 190 H 10 Z" />
+
+  <!-- creates the small red circle -->
+  <circle r="5" fill="red">
+    <!-- Animates the circle along the square path -->
+    <animateMotion dur="10s" repeatCount="indefinite">
+      <mpath href="#squarePath" />
+    </animateMotion>
+  </circle>
+</svg>
