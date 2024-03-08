@@ -19,4 +19,5 @@ During this assignment, I referenced the following resources:
 - [GitHub page](https://github.com/nina-mir/CSC317-assignments/blob/main/assignment-5/svgREADME.md)
 - [GitHub page](https://github.com/nina-mir/CSC317-assignments/blob/main/assignment-5/animation_example.svg)
 - [CSS Tricks](https://css-tricks.com/svg-favicons-and-all-the-fun-things-we-can-do-with-them/)
+- [HTML Color Codes](https://htmlcolorcodes.com/)
 
